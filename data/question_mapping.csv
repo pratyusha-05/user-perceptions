@@ -96,8 +96,9 @@ Q13,How did you feel after having been removed from an instant messaging group w
 Q13,How did you feel after having been removed from an instant messaging group without your permission?,5,Annoyance
 Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,0,It depends
 Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,1,No
-Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,2,Unsure / I prefer not to answer
-Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,3,Yes
+Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,2,Unsure
+Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,3,I prefer not to answer
+Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,4,Yes
 Q15,Why do you want other people to ask the group for permission before inviting others to join?,0,Privacy concerns
 Q15,Why do you want other people to ask the group for permission before inviting others to join?,1,No answer
 Q15,Why do you want other people to ask the group for permission before inviting others to join?,2,Group harmony
