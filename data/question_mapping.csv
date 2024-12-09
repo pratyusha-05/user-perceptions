@@ -1,0 +1,287 @@
+question_mapping
+Question,Question_Text,Option,Option_Text
+Q1,How frequently do you use instant messaging tools for group chat?,0,Daily
+Q1,How frequently do you use instant messaging tools for group chat?,1,4-6 times a week
+Q1,How frequently do you use instant messaging tools for group chat?,2,2-3 times a week
+Q1,How frequently do you use instant messaging tools for group chat?,3,Once a week
+Q1,How frequently do you use instant messaging tools for group chat?,4,Rarely
+Q1,How frequently do you use instant messaging tools for group chat?,5,Never
+Q2,Please mark which of the following tools you have used,0,Blackberry Messenger
+Q2,Please mark which of the following tools you have used,1,Discord
+Q2,Please mark which of the following tools you have used,2,Facebook Messenger
+Q2,Please mark which of the following tools you have used,3,iMessage
+Q2,Please mark which of the following tools you have used,4,IMO
+Q2,Please mark which of the following tools you have used,5,Instagram Direct
+Q2,Please mark which of the following tools you have used,6,Kakaotalk
+Q2,Please mark which of the following tools you have used,7,Kik
+Q2,Please mark which of the following tools you have used,8,Line
+Q2,Please mark which of the following tools you have used,9,Marco Polo
+Q2,Please mark which of the following tools you have used,10,Signal
+Q2,Please mark which of the following tools you have used,11,Skype
+Q2,Please mark which of the following tools you have used,12,Slack
+Q2,Please mark which of the following tools you have used,13,Snapchat
+Q2,Please mark which of the following tools you have used,14,Telegram
+Q2,Please mark which of the following tools you have used,15,Viber
+Q2,Please mark which of the following tools you have used,16,WeChat
+Q2,Please mark which of the following tools you have used,17,WhatsApp
+Q2,Please mark which of the following tools you have used,18,Google Hangouts
+Q3,For what purposes do you use instant messaging tools for group communication?,0,Work or school-related activity
+Q3,For what purposes do you use instant messaging tools for group communication?,1,Chatting
+Q3,For what purposes do you use instant messaging tools for group communication?,2,Coordinating events
+Q3,For what purposes do you use instant messaging tools for group communication?,3,Social
+Q3,For what purposes do you use instant messaging tools for group communication?,4,Fun
+Q4,What do you like about using instant messaging tools for group communication?,0,Usability
+Q4,What do you like about using instant messaging tools for group communication?,1,Fast
+Q4,What do you like about using instant messaging tools for group communication?,2,Group communication
+Q4,What do you like about using instant messaging tools for group communication?,3,Staying connected
+Q4,What do you like about using instant messaging tools for group communication?,4,No answer
+Q4,What do you like about using instant messaging tools for group communication?,5,Tool itself
+Q4,What do you like about using instant messaging tools for group communication?,6,Free of Cost
+Q4,What do you like about using instant messaging tools for group communication?,7,Tool features
+Q5,What do you dislike about using instant messaging tools for group communication?,0,No Dislikes 
+Q5,What do you dislike about using instant messaging tools for group communication?,1,Too many messages to keep up with
+Q5,What do you dislike about using instant messaging tools for group communication?,2,Compatibility issues
+Q5,What do you dislike about using instant messaging tools for group communication?,3,Usability issues
+Q5,What do you dislike about using instant messaging tools for group communication?,4,Unreal
+Q5,What do you dislike about using instant messaging tools for group communication?,5,Limited Usefulness
+Q5,What do you dislike about using instant messaging tools for group communication?,6,Difficult
+Q5,What do you dislike about using instant messaging tools for group communication?,7,Conflict
+Q5,What do you dislike about using instant messaging tools for group communication?,8,Pressure to stay online
+Q5,What do you dislike about using instant messaging tools for group communication?,9,Unsuitable for group communication
+Q7,How do you choose which instant messaging tools to use for group communication?,0,Usability
+Q7,How do you choose which instant messaging tools to use for group communication?,1,Personal preference
+Q7,How do you choose which instant messaging tools to use for group communication?,2,What others use
+Q7,How do you choose which instant messaging tools to use for group communication?,3,Platform familiarity
+Q7,How do you choose which instant messaging tools to use for group communication?,4,Group-lead decision
+Q7,How do you choose which instant messaging tools to use for group communication?,5,Compatibility
+Q7,How do you choose which instant messaging tools to use for group communication?,6,Context-specific
+Q7,How do you choose which instant messaging tools to use for group communication?,7,Content based
+Q7,How do you choose which instant messaging tools to use for group communication?,8,Based on features
+Q7,How do you choose which instant messaging tools to use for group communication?,9,Efficient
+Q7,How do you choose which instant messaging tools to use for group communication?,10,Urgency
+Q8,When using instant messaging tools for group communication who do you talk to?,0,Immediate/nuclear family members
+Q8,When using instant messaging tools for group communication who do you talk to?,1,Extended family members
+Q8,When using instant messaging tools for group communication who do you talk to?,2,Friends
+Q8,When using instant messaging tools for group communication who do you talk to?,3,Work colleagues
+Q8,When using instant messaging tools for group communication who do you talk to?,4,Other
+Q8,When using instant messaging tools for group communication who do you talk to?,5,I prefer not to answer
+Q9,how large are your instant messaging groups?,0,3-5 people
+Q9,how large are your instant messaging groups?,1,6-10 people
+Q9,how large are your instant messaging groups?,2,11-20 people
+Q9,how large are your instant messaging groups?,3,20+ people
+Q9,how large are your instant messaging groups?,4,My groups vary largely in size.
+Q9,how large are your instant messaging groups?,5,Unsure
+Q9,how large are your instant messaging groups?,6, I prefer not to answer
+Q11,Have you ever been removed from an instant messaging group without your permission?,0,Yes
+Q11,Have you ever been removed from an instant messaging group without your permission?,1,No
+Q11,Have you ever been removed from an instant messaging group without your permission?,2,Unsure
+Q11,Have you ever been removed from an instant messaging group without your permission?,3,I prefer not to answer
+Q12,please share why you were removed from an instant messaging group without your permission,0,No answer
+Q12,please share why you were removed from an instant messaging group without your permission,1,Conflict
+Q12,please share why you were removed from an instant messaging group without your permission,2,Change in group relevance
+Q12,please share why you were removed from an instant messaging group without your permission,3,Purpose fulfilled
+Q12,please share why you were removed from an instant messaging group without your permission,4,Unwilling
+Q12,please share why you were removed from an instant messaging group without your permission,5,Political
+Q12,please share why you were removed from an instant messaging group without your permission,6,For fun
+Q12,please share why you were removed from an instant messaging group without your permission,7,Inactivity
+Q13,How did you feel after having been removed from an instant messaging group without your permission?,0,No answer
+Q13,How did you feel after having been removed from an instant messaging group without your permission?,1,Acceptance
+Q13,How did you feel after having been removed from an instant messaging group without your permission?,2,Indifference
+Q13,How did you feel after having been removed from an instant messaging group without your permission?,3,Privacy concerns
+Q13,How did you feel after having been removed from an instant messaging group without your permission?,4,Partial acceptance
+Q13,How did you feel after having been removed from an instant messaging group without your permission?,5,Annoyance
+Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,0,It depends
+Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,1,No
+Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,2,Unsure / I prefer not to answer
+Q14,Should people ask the group for permission before inviting others to join an instant messaging group you are a member of?,3,Yes
+Q15,Why do you want other people to ask the group for permission before inviting others to join?,0,Privacy concerns
+Q15,Why do you want other people to ask the group for permission before inviting others to join?,1,No answer
+Q15,Why do you want other people to ask the group for permission before inviting others to join?,2,Group harmony
+Q15,Why do you want other people to ask the group for permission before inviting others to join?,3,Group purpose
+Q15,Why do you want other people to ask the group for permission before inviting others to join?,4,Conflict avoidance
+Q15,Why do you want other people to ask the group for permission before inviting others to join?,5,Group cohesion
+Q15,Why do you want other people to ask the group for permission before inviting others to join?,6,Group comfort
+Q15,Why do you want other people to ask the group for permission before inviting others to join?,7,Right to be informed
+Q15,Why do you want other people to ask the group for permission before inviting others to join?,8,Security/Privacy concerns
+Q16,When do you review the member list of an instant messaging group?,0,I check every now and then to see if anything has changed
+Q16,When do you review the member list of an instant messaging group?,1,I never review the member list
+Q16,When do you review the member list of an instant messaging group?,2,Unsure / I prefer not to answer
+Q16,When do you review the member list of an instant messaging group?,3,When I first join a group
+Q16,When do you review the member list of an instant messaging group?,4,When a member leaves the group
+Q16,When do you review the member list of an instant messaging group?,5,When a new member joins the group
+Q17,Have you ever been in an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,0,No
+Q17,Have you ever been in an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,1,Unsure
+Q17,Have you ever been in an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,2,Yes
+Q18,How did you feel about having an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,0,Indifference
+Q18,How did you feel about having an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,1,Self-identification
+Q18,How did you feel about having an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,2,No answer
+Q18,How did you feel about having an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,3,Acceptable
+Q18,How did you feel about having an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,4,Perceived disengagement
+Q18,How did you feel about having an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,5,Context-specific
+Q18,How did you feel about having an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,6,Embarrassment
+Q18,How did you feel about having an instant messaging group chat where one or more members of the group chat only rarely participate in the group conversation?,7,Annoyance
+Q19,How comfortable are you with other members of an instant messaging group saving or sharing your conversations with non-members?,0,Extremely comfortable
+Q19,How comfortable are you with other members of an instant messaging group saving or sharing your conversations with non-members?,1,Extremely uncomfortable
+Q19,How comfortable are you with other members of an instant messaging group saving or sharing your conversations with non-members?,2,Neither comfortable nor uncomfortable
+Q19,How comfortable are you with other members of an instant messaging group saving or sharing your conversations with non-members?,3,Somewhat comfortable
+Q19,How comfortable are you with other members of an instant messaging group saving or sharing your conversations with non-members?,4,Somewhat uncomfortable
+Q19,How comfortable are you with other members of an instant messaging group saving or sharing your conversations with non-members?,5,Unsure / I prefer not to answer
+Q20,Are there topics that make you uncomfortable to read or discuss in instant messaging groups you are a member of?,0,Drug use
+Q20,Are there topics that make you uncomfortable to read or discuss in instant messaging groups you are a member of?,1,Medical health
+Q20,Are there topics that make you uncomfortable to read or discuss in instant messaging groups you are a member of?,2,Mental health
+Q20,Are there topics that make you uncomfortable to read or discuss in instant messaging groups you are a member of?,3,Other
+Q20,Are there topics that make you uncomfortable to read or discuss in instant messaging groups you are a member of?,4,Politics
+Q20,Are there topics that make you uncomfortable to read or discuss in instant messaging groups you are a member of?,5,Religion
+Q20,Are there topics that make you uncomfortable to read or discuss in instant messaging groups you are a member of?,6,Sexuality
+Q20,Are there topics that make you uncomfortable to read or discuss in instant messaging groups you are a member of?,7,Unsure / I prefer not to answer
+Q21,Has anyone ever shared something in an instant messaging group that placed you in an awkward position?,0,No
+Q21,Has anyone ever shared something in an instant messaging group that placed you in an awkward position?,1,Unsure / I prefer not to answer
+Q21,Has anyone ever shared something in an instant messaging group that placed you in an awkward position?,2,Yes
+Q22,please share how what was shared put you into an awkward position,0,Expecting forceful response
+Q22,please share how what was shared put you into an awkward position,1,Unwilling
+Q22,please share how what was shared put you into an awkward position,2,Embarrasment
+Q22,please share how what was shared put you into an awkward position,3,Conflict
+Q22,please share how what was shared put you into an awkward position,4,No answer
+Q22,please share how what was shared put you into an awkward position,5,Gossip
+Q23,How did you respond to someone sharing something that placed you in an awkward position?,0,Responded honestly
+Q23,How did you respond to someone sharing something that placed you in an awkward position?,1,Not willing to answer
+Q23,How did you respond to someone sharing something that placed you in an awkward position?,2,Ignorance
+Q23,How did you respond to someone sharing something that placed you in an awkward position?,3,Insensitive
+Q23,How did you respond to someone sharing something that placed you in an awkward position?,4,Sort it out
+Q23,How did you respond to someone sharing something that placed you in an awkward position?,5,No answer
+Q23,How did you respond to someone sharing something that placed you in an awkward position?,6,Denial
+Q24,Have you ever joined an instant messaging group because you were interested in the topic being discussed and not because of who the group members were?,0,No
+Q24,Have you ever joined an instant messaging group because you were interested in the topic being discussed and not because of who the group members were?,1,Unsure / I prefer not to answer
+Q24,Have you ever joined an instant messaging group because you were interested in the topic being discussed and not because of who the group members were?,2,Yes
+Q25,What topics were discussed in these groups?,0,Current affairs
+Q25,What topics were discussed in these groups?,1,Academic topics
+Q25,What topics were discussed in these groups?,2,Extracurricular activities
+Q25,What topics were discussed in these groups?,3,Personal interests
+Q25,What topics were discussed in these groups?,4,Fitness
+Q25,What topics were discussed in these groups?,5,Games
+Q25,What topics were discussed in these groups?,6,Sports
+Q25,What topics were discussed in these groups?,7,Hobbies
+Q25,What topics were discussed in these groups?,8,Idols
+Q25,What topics were discussed in these groups?,9,Fun
+Q25,What topics were discussed in these groups?,10,Entertainment
+Q25,What topics were discussed in these groups?,11,No answer
+Q27,Please share what your privacy concerns were when joining or participating in these groups,0,Trust concerns
+Q27,Please share what your privacy concerns were when joining or participating in these groups,1,Spam issues
+Q27,Please share what your privacy concerns were when joining or participating in these groups,2,Anonymity preference
+Q27,Please share what your privacy concerns were when joining or participating in these groups,3,Privacy concerns
+Q27,Please share what your privacy concerns were when joining or participating in these groups,4,Unwilling to share
+Q27,Please share what your privacy concerns were when joining or participating in these groups,5,No answer
+Q26,Do you recall a time when privacy was a concern for you when joining or participating in these groups?,0,No
+Q26,Do you recall a time when privacy was a concern for you when joining or participating in these groups?,1,Unsure / I prefer not to answer
+Q26,Do you recall a time when privacy was a concern for you when joining or participating in these groups?,2,Yes
+Q29,Have you ever shared sensitive information in an instant messaging group?,0,No
+Q29,Have you ever shared sensitive information in an instant messaging group?,1,Unsure / I prefer not to answer
+Q29,Have you ever shared sensitive information in an instant messaging group?,2,Yes
+Q30,please share the types of sensitive information you have shared in an instant messaging group,0,No answer
+Q30,please share the types of sensitive information you have shared in an instant messaging group,1,Personal relationships
+Q30,please share the types of sensitive information you have shared in an instant messaging group,2,Personal details
+Q30,please share the types of sensitive information you have shared in an instant messaging group,3,Professional details
+Q30,please share the types of sensitive information you have shared in an instant messaging group,4,Unwilling to answer
+Q30,please share the types of sensitive information you have shared in an instant messaging group,5,Medical Details
+Q30,please share the types of sensitive information you have shared in an instant messaging group,6,Embarrassing information
+Q30,please share the types of sensitive information you have shared in an instant messaging group,7,Personal feelings or opinions
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,0,Trust within group
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,1,Sense of security
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,2,Privacy protection
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,3,Confidentiality
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,4,Consent-based privacy
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,5,Information containment
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,6,Relief from data breaches
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,7,Encryption
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,8,Professional maintenance
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,9,Controlled access
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,10,No unauthorized archiving
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,11,Importance of security
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,12,Sense of security
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,13,Validation
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,14,Emotional Support
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,15,Connections
+Q31,What does it mean to you that an instant messaging tool is secure for group communication?,16,Willing to discuss
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,0,Trust within group
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,1,No answer
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,2,Device security
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,3,Limited information sharing
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,4,Reliance on others
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,5,Cautious sharing
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,6,Verification
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,7,Controlled access
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,8,Trust on the tool
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,9,Check the internet privacy level
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,10,Limiting group membership to trusted people
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,11,Restrict sharing of sensitive content 
+Q32,What do you personally do to make sure your instant messaging group communications are secure?,12,Use passwords
+Q33,How do you decide if an instant messaging tool is secure for group communication?,0,Trust within group
+Q33,How do you decide if an instant messaging tool is secure for group communication?,1,Encryption
+Q33,How do you decide if an instant messaging tool is secure for group communication?,2,Member assessment
+Q33,How do you decide if an instant messaging tool is secure for group communication?,3,Popularity-based trust
+Q33,How do you decide if an instant messaging tool is secure for group communication?,4,Context-based assessment
+Q33,How do you decide if an instant messaging tool is secure for group communication?,5,Lack of knowledge
+Q33,How do you decide if an instant messaging tool is secure for group communication?,6,Assumption
+Q33,How do you decide if an instant messaging tool is secure for group communication?,7,History of security breaches
+Q33,How do you decide if an instant messaging tool is secure for group communication?,8,No answer
+Q33,How do you decide if an instant messaging tool is secure for group communication?,9,Nothing is secure
+Q33,How do you decide if an instant messaging tool is secure for group communication?,10,Uncertain
+Q33,How do you decide if an instant messaging tool is secure for group communication?,11,Reputation
+Q33,How do you decide if an instant messaging tool is secure for group communication?,12,Indifference
+Q33,How do you decide if an instant messaging tool is secure for group communication?,13,Research
+Q33,How do you decide if an instant messaging tool is secure for group communication?,14,Privacy policy
+Q33,How do you decide if an instant messaging tool is secure for group communication?,15,Confidentiality
+Q33,How do you decide if an instant messaging tool is secure for group communication?,16,Privacy
+Q33,How do you decide if an instant messaging tool is secure for group communication?,17,Features
+Q33,How do you decide if an instant messaging tool is secure for group communication?,18,Delete messages
+Q34,Are there any instant messaging tools you believe are secure for group communication?,0,No
+Q34,Are there any instant messaging tools you believe are secure for group communication?,1,Unsure / I prefer not to answer
+Q34,Are there any instant messaging tools you believe are secure for group communication?,2,Yes
+Q35,Please specify which tools you believe to be secure for group communication,0,No answer
+Q35,Please specify which tools you believe to be secure for group communication,1,Popular messaging tool
+Q35,Please specify which tools you believe to be secure for group communication,2,Security-focused tool
+Q36,Have you ever been concerned that someone is not who they say they are when using instant messaging for group communication?,0,No
+Q36,Have you ever been concerned that someone is not who they say they are when using instant messaging for group communication?,1,Unsure / I prefer not to answer
+Q36,Have you ever been concerned that someone is not who they say they are when using instant messaging for group communication?,2,Yes
+Q37,Why were you concerned that someone is not who they say they are when using instant messaging for group communication?,0,Misdirected communication
+Q37,Why were you concerned that someone is not who they say they are when using instant messaging for group communication?,1,No answer
+Q37,Why were you concerned that someone is not who they say they are when using instant messaging for group communication?,2,Suspicious behavior
+Q37,Why were you concerned that someone is not who they say they are when using instant messaging for group communication?,3,Fake identity
+Q37,Why were you concerned that someone is not who they say they are when using instant messaging for group communication?,4,Experience
+Q37,Why were you concerned that someone is not who they say they are when using instant messaging for group communication?,5,Try to gather sensitive information
+Q38,How do you verify that someone is who they say they are when using instant messaging for group communication?,0,No answer
+Q38,How do you verify that someone is who they say they are when using instant messaging for group communication?,1,Source validation
+Q38,How do you verify that someone is who they say they are when using instant messaging for group communication?,2,Knowledge verification
+Q38,How do you verify that someone is who they say they are when using instant messaging for group communication?,3,Direct verification
+Q38,How do you verify that someone is who they say they are when using instant messaging for group communication?,4,Information withholding
+Q38,How do you verify that someone is who they say they are when using instant messaging for group communication?,5,Use features of App
+Q38,How do you verify that someone is who they say they are when using instant messaging for group communication?,6,Profile verification online
+Q38,How do you verify that someone is who they say they are when using instant messaging for group communication?,7,Verification through other contacts
+Q38,How do you verify that someone is who they say they are when using instant messaging for group communication?,8,Identity verification
+Q39,What is your gender?,0,Female
+Q39,What is your gender?,1,I prefer not to answer
+Q39,What is your gender?,2,Male
+Q39,What is your gender?,3,Other
+Q40,Are you an international student?,0,Yes
+Q40,Are you an international student?,1,No
+Q42,How long have you lived in the United States?,0,Less than 1 year
+Q42,How long have you lived in the United States?,1,Between 1 year and 2 years
+Q42,How long have you lived in the United States?,2,Between 3 years and 4 years
+Q42,How long have you lived in the United States?,3,Between 4 years and 5 years
+Q42,How long have you lived in the United States?,4,Between 5 years and 6 years
+Q42,How long have you lived in the United States?,5,Between 6 years and 7 years
+Q42,How long have you lived in the United States?,6,Between 7 years and 8 years
+Q42,How long have you lived in the United States?,7,Between 8 years and 9 years
+Q42,How long have you lived in the United States?,8,Between 9 years and 10 years
+Q42,How long have you lived in the United States?,9,More than 10 years but NOT all my life
+Q42,How long have you lived in the United States?,10,All my life
+Q42,How long have you lived in the United States?,11,I do not live in the United States
+Q43,What is the highest level of school you have completed or the highest degree you have received?,0,Associate's degree in college (2-year)
+Q43,What is the highest level of school you have completed or the highest degree you have received?,1,Bachelor's degree in college (4-year)
+Q43,What is the highest level of school you have completed or the highest degree you have received?,2,Doctoral degree
+Q43,What is the highest level of school you have completed or the highest degree you have received?,3,High school graduate (high school diploma or equivalent including GED)
+Q43,What is the highest level of school you have completed or the highest degree you have received?,4,I prefer not to answer
+Q43,What is the highest level of school you have completed or the highest degree you have received?,5,Less than high school degree
+Q43,What is the highest level of school you have completed or the highest degree you have received?,6,Master's degree
+Q43,What is the highest level of school you have completed or the highest degree you have received?,7,Professional degree (JD/MD)
+Q43,What is the highest level of school you have completed or the highest degree you have received?,8,Some college but no degree
