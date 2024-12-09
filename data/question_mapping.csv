@@ -72,6 +72,10 @@ Q9,how large are your instant messaging groups?,3,20+ people
 Q9,how large are your instant messaging groups?,4,My groups vary largely in size.
 Q9,how large are your instant messaging groups?,5,Unsure
 Q9,how large are your instant messaging groups?,6, I prefer not to answer
+Q10,Why do your instant messaging groups vary largely in size?,0,No answer
+Q10,Why do your instant messaging groups vary largely in size?,1,Purpose of the group
+Q10,Why do your instant messaging groups vary largely in size?,2,Scalability
+Q10,Why do your instant messaging groups vary largely in size?,3,Diversity
 Q11,Have you ever been removed from an instant messaging group without your permission?,0,Yes
 Q11,Have you ever been removed from an instant messaging group without your permission?,1,No
 Q11,Have you ever been removed from an instant messaging group without your permission?,2,Unsure
